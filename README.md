@@ -105,8 +105,24 @@ a. Evaluated models using R² Score, Mean Squared Error (MSE), and Mean Absolute
 
 b. Compared performance across all three models to identify the most accurate one.<br/>
 
+## Insights and findings
+##### 1) The major factors that affect CO₂ emissions are: <br/>
 
+a. Engine Size – strong positive correlation with CO₂ produced. <br/>
 
+b. Cylinders – also shows a strong positive correlation with CO₂ emissions. <br/>
+
+c. Vehicle preference trends show that most people choose SUV Small, Mid-Size, and Compact vehicles due to their eco-friendliness and lower emissions. <br/>
+
+##### 2) The top 3 vehicle classes with the highest average CO₂ emissions are: <br/>
+
+a. Van – Passenger <br/>
+
+b. Van – Cargo <br/>
+
+c. SUV – Standard <br/>
+
+##### 3) Vehicles powered by Ethanol (E85) and Gasoline (Premium & Diesel) tend to emit higher levels of CO₂ compared to other fuel types. <br/>
 
 
 
