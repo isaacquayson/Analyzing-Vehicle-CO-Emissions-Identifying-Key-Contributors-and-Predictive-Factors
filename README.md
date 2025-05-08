@@ -53,7 +53,32 @@ g) LabelEncoder & MinMaxScaler – data preprocessing utilities<br/>
 
 h) Linear Regression, Decision Tree, Random Forest – regression models for prediction<br/>
 
-i) Microsoft Excel
+i) Microsoft Excel<br/>
+
+j) Microsoft Power BI<br/>
+  1. KPI Cards: <br/>
+
+  a. Total Vehicles: 1291<br/>
+
+  b. Average CO₂ Emitted: 260.25 g/km<br/>
+
+  c. Average Fuel Consumption: 9.43 L/100km<br/>
+
+  2. Interactive Filters: <br/>
+
+  a. Filters by Make, Vehicle Class, Fuel Type, and Transmission Type allow users to dynamically slice the data.<br/>
+
+  3. Visual Components:
+
+   a. Bar Chart: Average CO₂ Emissions by Vehicle Class<br/>
+
+   b. Treemap: Distribution of vehicles by class (e.g., Compact, Subcompact, Pickup Trucks)<br/>
+
+   c. Line Chart: Average CO₂ Emissions by Engine Size<br/>
+
+   d. Bar Chart: Average CO₂ Emissions by Fuel Type (Ethanol, Regular Gasoline, Premium Gasoline, Diesel)<br/>
+
+   e. Scatter Plot: Fuel Consumption (City vs Highway) showing correlation in real-world driving scenarios<br/>
 
 
 ## Methodology
