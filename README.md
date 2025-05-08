@@ -1,4 +1,4 @@
-# Analyzing-Vehicle-CO-Emissions-Identifying-Key-Contributors-and-Predictive-Factors
+# Analyzing-Vehicle-CO2-Emissions-Identifying-Key-Contributors-and-Predictive-Factors
 
 ## Project Overview
 This project explores vehicle carbon emissions to identify which types, classes, or attributes of vehicles contribute most to CO₂ pollution.<br/>
