@@ -1,5 +1,30 @@
 # Analyzing-Vehicle-CO2-Emissions-Identifying-Key-Contributors-and-Predictive-Factors
 
+## Table of Contents <br/>
+
+### 1. Project Overview
+
+### 2. Problem Statement
+
+### 3. Project Objectives
+
+### 4. Tools and Technologies Used
+
+### 5. Data Source
+
+### 6. Methodology
+a. Data Collection<br/>
+b. Data Cleaning & Preprocessing<br/>
+c. Exploratory Data Analysis (EDA)<br/>
+d. Feature Selection
+e. Model Development
+f. Model Evaluation
+
+### 7. Insights and Findings
+
+### 8. Conclusion
+
+
 ## Project Overview
 This project explores vehicle carbon emissions to identify which types, classes, or attributes of vehicles contribute most to CO₂ pollution.<br/>
 Leveraging a dataset of over 6,200 vehicles with attributes like engine size, fuel consumption, fuel type, and transmission, the project performs exploratory data analysis (EDA) and predictive modeling.<br/>
@@ -81,6 +106,10 @@ j) Microsoft Power BI<br/>
    e. Scatter Plot: Fuel Consumption (City vs Highway) showing correlation in real-world driving scenarios<br/>
 
 
+## Data Source<br/>
+https://www.kaggle.com/datasets/bhuviranga/co2-emissions
+
+
 ## Methodology
 The methodology followed in this project involved several structured steps to ensure a robust and insightful analysis of CO₂ emissions data:<br/>
 
@@ -150,6 +179,13 @@ c. SUV – Standard <br/>
 ##### 3) Vehicles powered by Ethanol (E85) and Gasoline (Premium & Diesel) tend to emit higher levels of CO₂ compared to other fuel types. <br/>
 
 
+## Conclusion <br/>
+This project analyzed CO₂ emissions across various vehicle types using data exploration, machine learning, and Power BI visualizations.<br/>
+It revealed that engine size, cylinder count, and fuel type are major contributors to emissions.<br/>
+Vans and standard SUVs emit the most CO₂, while compact and mid-size cars are more eco-friendly. <br/>
+
+Among the models tested, the Random Forest Regressor delivered the highest prediction accuracy with a 99.74% R² score.<br/>
+The Power BI dashboard provided actionable insights for users to identify and choose low-emission vehicles.
 
 
 
