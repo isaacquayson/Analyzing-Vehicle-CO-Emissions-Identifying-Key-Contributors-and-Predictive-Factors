@@ -18,11 +18,11 @@ b. Data Cleaning & Preprocessing<br/>
 c. Exploratory Data Analysis (EDA)<br/>
 d. Feature Selection
 e. Model Development
-f. Model Evaluation
+f. Model Evaluation<br/>
 
-### 7. Insights and Findings
+### 7. Insights and Findings<br/>
 
-### 8. Conclusion
+### 8. Conclusion<br/>
 
 
 ## Project Overview
