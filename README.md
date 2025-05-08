@@ -59,11 +59,11 @@ i) Microsoft Excel
 ## Methodology
 The methodology followed in this project involved several structured steps to ensure a robust and insightful analysis of CO₂ emissions data:<br/>
 
-1. Data Collection<br/>
+### 1. Data Collection<br/>
 
 A CSV dataset containing specifications of over 6,000 vehicles, including fuel consumption, engine size, transmission type, and CO₂ emissions, was imported for analysis.<br/>
 
-2. Data Cleaning & Preprocessing<br/>
+### 2. Data Cleaning & Preprocessing<br/>
 
 a. Checked for and confirmed the absence of missing values.<br/>
 
@@ -73,7 +73,7 @@ c. Converted categorical variables (e.g., Make, Model, Fuel Type) into numeric f
 
 d. Normalized numerical features using MinMaxScaler for consistent model performance.<br/>
 
-3. Exploratory Data Analysis (EDA)<br/>
+### 3. Exploratory Data Analysis (EDA)<br/>
 
 a. Conducted descriptive statistics to understand data distribution.<br/>
 
@@ -81,13 +81,13 @@ b. Visualized relationships and distributions using bar plots, box plots, histog
 
 c. Identified high-emission vehicle categories and correlated attributes like engine size and fuel type with CO₂ output.<br/>
 
-4. Feature Selection<br/>
+### 4. Feature Selection<br/>
 
 a. Selected key features such as engine size, fuel consumption metrics, transmission, and vehicle class as predictors for CO₂ emissions.<br/>
 
 b. Split the data into independent variables (X) and dependent variable (y).<br/>
 
-5. Model Development<br/>
+### 5. Model Development<br/>
 
 Applied three regression models:<br/>
 
@@ -99,7 +99,7 @@ c. Random Forest Regressor – for enhanced accuracy using ensemble learning<br/
 
 d. Split data into training (80%) and testing (20%) sets for model evaluation.<br/>
 
-6. Model Evaluation<br/>
+### 6. Model Evaluation<br/>
 
 a. Evaluated models using R² Score, Mean Squared Error (MSE), and Mean Absolute Error (MAE).<br/>
 
